@@ -28,4 +28,4 @@
 
 ---
 
-**Author:** (ご自身のGitHubアカウント名などを任意で記載)
+**Author:** (emura-koki)
