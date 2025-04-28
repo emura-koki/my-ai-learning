@@ -1,7 +1,2 @@
-git status
-Git add week1/
-git commit -m "Add Week 1 Hello World (Notebook and Colab link README)"
-git push origin main
-Cd ..
-Ls
+- [Hello World Notebook (Colab)](https://colab.research.google.com/drive/1MMQXk1P2HIuDkaTwGv0FTWORgtJrFmzw?usp=sharing)
 
